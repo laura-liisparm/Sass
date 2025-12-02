@@ -1,0 +1,25 @@
+{
+  "name": "sass-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/index.scss ./css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkselMuur/Sass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AkselMuur/Sass/issues"
+  },
+  "homepage": "https://github.com/AkselMuur/Sass#readme",
+  "devDependencies": {
+    "sass": "^1.93.2"
+  }
+}
